@@ -57,7 +57,7 @@ class Game:
 		pass
 
 	def ClearScreen(self): # Limpa a tela
-		system('cls')
+		system('clear')
 		pass
 
 	def ShowMap(self):# Mostra o Mapa
